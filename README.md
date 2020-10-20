@@ -23,3 +23,7 @@ There are no commitment whatsoever whether they will ever be implemented and acc
 
 ## Filters
 - audio/video GPU filters API
+
+## 360
+
+- Force equirectangular playback API for badly/missing tagged 360 video
