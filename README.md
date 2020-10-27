@@ -10,6 +10,7 @@ There are no commitment whatsoever whether they will ever be implemented and acc
 ## Logging
 - Per player logging.
 - Formatted log callbacks. ( https://mailman.videolan.org/pipermail/vlc-devel/2019-May/124685.html )
+- Better logging granularity. Select a specific module for more detailed logging for example. some good ideas: https://gstreamer.freedesktop.org/documentation/tutorials/basic/debugging-tools.html?gi-language=c
 
 ## Plugin path
 - libvlc_set_plugins_path function: VLC_PLUGIN_PATH can be unconvenient/unsufficient/unusable in some cases.
