@@ -28,3 +28,6 @@ There are no commitment whatsoever whether they will ever be implemented and acc
 ## 360
 
 - Force equirectangular playback API for badly/missing tagged 360 video
+
+## Progress bar timing
+- Higher update frequency for time/position events
