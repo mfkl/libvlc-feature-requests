@@ -32,6 +32,9 @@ There are no commitment whatsoever whether they will ever be implemented and acc
 ## Progress bar timing
 - Higher update frequency for time/position events
 
+## Multi vout support via libvlc_media_player_select_tracks_by_ids
+to be able to build a video wallet easily from window handles.
+
 ## Gapless playback
 
 https://code.videolan.org/videolan/vlc/-/issues/549
