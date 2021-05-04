@@ -31,3 +31,7 @@ There are no commitment whatsoever whether they will ever be implemented and acc
 
 ## Progress bar timing
 - Higher update frequency for time/position events
+
+## Gapless playback
+
+https://code.videolan.org/videolan/vlc/-/issues/549
