@@ -33,7 +33,7 @@ There are no commitment whatsoever whether they will ever be implemented and acc
 - Higher update frequency for time/position events
 
 ## Multi vout support via libvlc_media_player_select_tracks_by_ids
-to be able to build a video wallet easily from window handles.
+to be able to build a video wall easily from window handles.
 
 ## Gapless playback
 
