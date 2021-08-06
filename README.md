@@ -38,3 +38,5 @@ to be able to build a video wall easily from window handles.
 ## Gapless playback
 
 https://code.videolan.org/videolan/vlc/-/issues/549
+
+## Change HWND target during playback
