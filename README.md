@@ -28,7 +28,8 @@ There are no commitment whatsoever whether they will ever be implemented and acc
 ## 360
 
 - Force equirectangular playback API for badly/missing tagged 360 video
-
+- Force bird eye view for properly tagged 360 video
+ 
 ## Progress bar timing
 - Higher update frequency for time/position events
 
@@ -40,3 +41,6 @@ to be able to build a video wall easily from window handles.
 https://code.videolan.org/videolan/vlc/-/issues/549
 
 ## Change HWND target during playback
+
+## Disable OSD by default
+do not inherit by default and add API to turn it on/off
