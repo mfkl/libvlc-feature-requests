@@ -18,7 +18,7 @@ There are no commitment whatsoever whether they will ever be implemented and acc
 ## Callbacks
 - muxed callbacks API
 - sout callbacks API
-- records callback API
+- records callback API https://code.videolan.org/videolan/vlc/-/merge_requests/206
   - https://code.videolan.org/videolan/VLCKit/-/blob/master/libvlc/patches/0011-libvlc-media_player-Add-record-method.patch
   - https://code.videolan.org/videolan/VLCKit/-/blob/master/libvlc/patches/0012-libvlc-events-Add-callbacks-for-record.patch
 
