@@ -29,7 +29,8 @@ There are no commitment whatsoever whether they will ever be implemented and acc
 
 - Force equirectangular playback API for badly/missing tagged 360 video
 - Force bird eye view for properly tagged 360 video
- 
+- Add Quaternion viewpoint API (in addition to the existing Euler angles viewpoint API)
+
 ## Progress bar timing
 - Higher update frequency for time/position events
 
